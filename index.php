@@ -1,7 +1,3 @@
 <?php
-    echo "Hello";
-    echo "Hello";
-    echo "Hello";
-
-    echo "Hiii Deepak"
+    echo "Deepak, Please check if branch up to date.";
 ?>
