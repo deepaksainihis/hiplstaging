@@ -1,4 +1,3 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hipldemo1/vwapi
-    - /bin/cp -r * $DEPLOYPATH
+    - /bin/cp -a /home/hipldemo1/vwapi/* /home/hipldemo1/vwapi/
